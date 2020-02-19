@@ -1,5 +1,5 @@
 # steamGameNews
-Application to get fresh news by using Steam Api.
+Application to get fresh game news from Steam.
 
 # Usage  :
        Run steamNews.py file (with python3) and follow the instructions.
