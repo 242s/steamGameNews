@@ -1,6 +1,10 @@
 # steamGameNews
 Application to get fresh game news from Steam.
 
+# Installing required dependencies :
+       python3 -m pip install bs4
+       python3 -m pip install html5lib
+
 # Usage  :
        Run steamNews.py file (with python3) and follow the instructions.
        python steamNews.py
